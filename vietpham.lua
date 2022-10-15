@@ -4299,6 +4299,7 @@ Boss_List = {
 	"Fajita [Lv. 925] [Boss]",
 	"Don Swan [Lv. 1000] [Boss]",
 	"Darkbeard [Lv. 1000] [Raid Boss]",
+	"Cursed Captain [Lv. 1300] [Boss]",
 	"Tide Keeper [Lv. 1475] [Boss]",
 	"Island Empress [Lv. 1675] [Boss]",
 	"Captain Elephant [Lv. 1875] [Boss]",
